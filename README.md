@@ -4,11 +4,10 @@ Hobbyist programmer.
 
 Learning Python and JS. 
 
-Interested in: Cisco, Automation, DevOPS, Network, Collaboration, Security, Zeep, AXL, Netmiko, Netconf, Yang
-
 Sharing some automation code.
 
 Looking to learn and improve.
+Interested in: Cisco, Automation, DevOPS, Network, Collaboration, Security, Zeep, AXL, Netmiko, Netconf, Yang
 
 https://github.com/dozieu/pinger
 
