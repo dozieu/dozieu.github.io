@@ -4,7 +4,7 @@ Hobbyist programmer.
 
 Learning Python and JS. 
 
-Interested in: Cisco, Automation, DevOPS, Network, Collaboration, Security, Zeepy, AXL, Netmiko, Netconf, Yang
+Interested in: Cisco, Automation, DevOPS, Network, Collaboration, Security, Zeep, AXL, Netmiko, Netconf, Yang
 
 Sharing some automation code.
 
