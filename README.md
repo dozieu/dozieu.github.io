@@ -7,7 +7,7 @@ Learning Python and JS.
 Sharing some automation code.
 
 Looking to learn and improve.
-Interested in: Cisco, Automation, DevOPS, Network, Collaboration, Security, Zeep, AXL, Netmiko, Netconf, Yang
+Interested in: Automation, DevOPS, Network, Collaboration, Security
 
 https://github.com/dozieu/pinger
 
