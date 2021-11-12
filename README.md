@@ -1,14 +1,11 @@
 # dozieu.github.io
 
-Hobbyist programmer.
+Hobbyist programmer looking to learn, improve and share
 
-Learning Python and JS. 
+Languages: Python and a little HTML, CSS, JS and Solidity. 
 
-Sharing some automation code.
+Fields of interest: Automation, DevOPS, Networking, Collaboration, Security, Blockchain
 
-Looking to learn and improve.
-
-Interested in: Automation, DevOPS, Network, Collaboration, Security
 
 https://github.com/dozieu/pinger
 
