@@ -1,6 +1,6 @@
 # dozieu.github.io
 
-Hobbyist programmer looking to learn, improve and share
+Hobbyist programmer looking to learn, create and share
 
 Languages: Python and a little HTML, CSS, JS and Solidity. 
 
