@@ -17,6 +17,6 @@ https://github.com/dozieu/jabbermaker
 
 https://github.com/dozieu/cipsearch
 
-Collabtools is web gui based suite of the programs above, I have Dockerised link below, try it out!
+Collabtools is web gui based suite of the programs above, I have dockerised, see link below, try it out!
 
 https://hub.docker.com/r/dozieu/collabtools-v1
