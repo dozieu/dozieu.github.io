@@ -10,6 +10,8 @@ Fields of interest: Automation, DevOPS, Networking, Collaboration, Security, Blo
 
 [pinger] (https://github.com/dozieu/pinger)
 
+<a href="https://github.com/dozieu/pinger">This is a link</a>
+
 https://github.com/dozieu/isrbackup
 
 https://github.com/dozieu/device_finder
