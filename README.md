@@ -8,7 +8,7 @@ Fields of interest: Automation, DevOPS, Networking, Collaboration, Security, Blo
 
 
 
-https://github.com/dozieu/pinger
+[pinger] (https://github.com/dozieu/pinger)
 
 https://github.com/dozieu/isrbackup
 
