@@ -2,7 +2,7 @@
 
 Hobbyist programmer with the desire to learn, create and share.
 
-Languages: Python and a little HTML, CSS, JS and Solidity 
+Languages: Python and a some HTML, CSS, JS and Solidity 
 
 Fields of interest: Automation, Networking, Collaboration, Security, Blockchain
 
