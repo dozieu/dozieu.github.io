@@ -1,6 +1,6 @@
 # dozieu.github.io
 
-Hobbyist programmer with the desire to learn, create and share.
+Hobbyist programmer with a broad technical background
 
 Languages: Python and some HTML, CSS, JS and Solidity 
 
@@ -25,3 +25,5 @@ Fields of interest: Automation, Networking, Collaboration, Security, Blockchain
 Collabtools is web gui based suite of the programs above, I have dockerised, see link below, try it out!
 
 <a href="https://hub.docker.com/r/dozieu/collabtools-v01">collabtools</a>
+
+"Learn, create, share"
