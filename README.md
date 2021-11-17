@@ -1,6 +1,6 @@
 # dozieu.github.io
 
-Hobbyist programmer with a broad technical background
+Hobbyist programmer with a network engineering and security background
 
 Languages: Python and some HTML, CSS, JS and Solidity 
 
