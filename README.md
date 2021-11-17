@@ -26,4 +26,4 @@ Collabtools is web gui based suite of the programs above, I have dockerised, see
 
 <a href="https://hub.docker.com/r/dozieu/collabtools-v01">collabtools</a>
 
-"Learn, create, share"
+"Learn, Create, Share"
