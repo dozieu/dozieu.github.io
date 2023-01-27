@@ -10,11 +10,11 @@ Fields of interest: Automation, Networking, Collaboration, Security, Blockchain
 
 
 
-<a href="https://github.com/dozieu/pinger">pinger</a>
+<a href="https://github.com/dozieu/pinger">pinger</a> - Test reachability of multiple IP hosts
 
 <a href="https://github.com/dozieu/isrbackup">isrbackup</a>
 
-<a href="https://github.com/dozieu/device_finder">device_finder</a>
+<a href="https://github.com/dozieu/device_finder">device_finder</a> - Identify the switch and port a device is connected to within a Cisco Layer 2 environment.
 
 <a href="https://github.com/dozieu/jabbermaker">jabbermaker</a>
 
