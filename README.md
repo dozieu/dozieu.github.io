@@ -18,7 +18,9 @@ At heart, I am a technology enthusiast whom is constantly self-training in diffe
 
 
 Hobbyist programmer with a network engineering and security background
-Languages: Python and some HTML, CSS, JS and Solidity 
+
+Languages: Python and some HTML, CSS, JS and Solidity
+
 Fields of interest: Automation, Networking, Collaboration, Cybersecurity, Blockchain
 
 Collabtools is web gui based suite of the programs above, I have dockerised, see link below, try it out!
