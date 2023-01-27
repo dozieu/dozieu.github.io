@@ -1,12 +1,8 @@
 # dozieu.github.io
 
-Hobbyist programmer with a network engineering and security background
 
-Languages: Python and some HTML, CSS, JS and Solidity 
-
-Fields of interest: Automation, Networking, Collaboration, Security, Blockchain
-
-
+Hi there, my name Dozie and welcome to my GitHub page. I am IT professional with 16+ years of experience servicing government and private sector network environments. Over the years, I have garnered advanced knowledge in the areas of Networking, Collaboration Technologies and Cybersecurity and have often credited automation to improve efficiencies in these areas. 
+At heart, I am a technology enthusiast whom is constantly self-training in different technology disciplines and tools, and as a result picked up programming as a hobby. Below are a few of the projects I worked on during the pandemic. Please feel free to use and improve on
 
 
 
@@ -21,6 +17,9 @@ Fields of interest: Automation, Networking, Collaboration, Security, Blockchain
 <a href="https://github.com/dozieu/cipsearch">cipsearch</a> - Performs cisco call manger phone search based on IP address
 
 
+Hobbyist programmer with a network engineering and security background
+Languages: Python and some HTML, CSS, JS and Solidity 
+Fields of interest: Automation, Networking, Collaboration, Cybersecurity, Blockchain
 
 Collabtools is web gui based suite of the programs above, I have dockerised, see link below, try it out!
 
