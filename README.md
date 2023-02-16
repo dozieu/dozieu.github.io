@@ -1,7 +1,7 @@
 # dozieu.github.io
 
 
-Hi there, my name Dozie and welcome to my GitHub page. I am IT professional with over twenty years of experience servicing government and private sector network environments. Over the years, I have garnered advanced knowledge in the areas of Networking, Collaboration Technologies and Cybersecurity and have often credited automation to improve efficiencies in these areas. 
+Hi there, my name Dozie and welcome to my GitHub page. I am an IT professional with over twenty years of experience servicing government and private sector network environments. Over the years, I have garnered advanced knowledge in the areas of Networking, Collaboration Technologies and Cybersecurity and have often credited automation to improve efficiencies in these areas. 
 At heart, I am a technology enthusiast whom is constantly self-training in different technology disciplines and tools, and as a result picked up programming as a hobby. Below are a few of the projects I worked on during the pandemic. Please feel free to use and improve on
 
 
